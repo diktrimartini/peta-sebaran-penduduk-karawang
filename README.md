@@ -28,7 +28,7 @@ Melakukan **Attribut Joining** menggunakan kolom kunci (*Key Field*) yang sama (
 * **Gradasi Warna:** Mengklasifikasikan sebaran penduduk menggunakan gradasi warna kuantitas agar perbedaan kepadatan antar kecamatan terlihat konstras dan informatif.
 * **Layouting:** Menyusun elemen kartografi formal di QGIS, Print Layout desain sisi samping untuk peta, menyesuaikan skala batang, memperbaiki legenda warna klasifikasidan garis, serta menambahkan inset regional.
 ## Format Output
-* **[Unduh File PDF Resolusi Tinggi](./PETA KEPENDUDUKAN KARAWANG.pdf)
-
-
+* **[Unduh File PDF Resolusi Tinggi](./Peta Sebaran Jumlah Penduduk Karawang.pdf)
+*
+*
 Pembuatan peta ini mengikuti tutrial dari Geosofware.id
