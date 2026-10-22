@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk latihan memetakan dan menganalisis sebaran jumlah penduduk tingkat kecamatan di Kabupaten Karawang. Visualisasi ini dirancang untuk mengidentifikasi konsentrasi populasi sehingga dapat mengetahui daerah kecamatan mana yang memiliki jumlah penduduk terbanyak serta mengetahui pemetaan wilayah strategis.
 
 ## Hasil Peta Standar Kartografi 
-![Peta Karawang](./Jumlah Penduduk Karawang.jpeg)
+![Peta Sebaran Penduduk Karawang](./Jumlah Penduduk Karawang.jpeg)
 
 ## Metodologi, Alat & Tahapan Teknis
 Proyek ini dikerjakan dengan tahapan pemrosesan data (*data processing workflow) sebagai berikut:
