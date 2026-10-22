@@ -18,7 +18,7 @@ Proyek ini dikerjakan dengan tahapan pemrosesan data (*data processing workflow)
 * ### 1. Akuisisi dan Filtrasi Data Spasial
 * **Skala Global ke Nasional:** Mengunduh data spasial batas administrasi resmi seluruh dunia melalui platform **GADM (Database of Global Administrative Areas)**.
 * **Skala Regional (Indonesia):** Menyaring data GADM global untuk mengekstrack batas wilayah Indonesia.
-* **Skala Lokasi (Karawang):** Melakukan query spasial pada level *Administrative 2 (Kabupaten) dan *Administrative 3 (Kecamatan) khusus untuk wilayah Kabupaten Karawang.
+* **Skala Lokasi (Karawang):** Melakukan query spasial pada level Administrative 2 (Kabupaten) dan Administrative 3 (Kecamatan) khusus untuk wilayah Kabupaten Karawang.
 ### 2. Pengumpulan Data Alfanumerik (Tabular)
 * Mengunduh data **Jumlah Penduduk Kabupaten Karawang** dari dokumen resmi **BPS (Badan Pusat Statistik)** Kabupaten Karawang dalam bentuk csv.
 ### 3. Integrasi Data di QGIS (Data Input & Joining)
@@ -28,7 +28,7 @@ Melakukan **Attribut Joining** menggunakan kolom kunci (*Key Field*) yang sama (
 * **Gradasi Warna:** Mengklasifikasikan sebaran penduduk menggunakan gradasi warna kuantitas agar perbedaan kepadatan antar kecamatan terlihat konstras dan informatif.
 * **Layouting:** Menyusun elemen kartografi formal di QGIS, Print Layout desain sisi samping untuk peta, menyesuaikan skala batang, memperbaiki legenda warna klasifikasidan garis, serta menambahkan inset regional.
 ## Format Output
-* **[Unduh File PDF Resolusi Tinggi](./Peta Sebaran Jumlah Penduduk Karawang.pdf)
+* **[Unduh File PDF Resolusi Tinggi](./Peta Sebaran Jumlah Penduduk Karawang.pdf)**
 
 Note:
 Pembuatan peta ini mengikuti tutrial dari Geosofware.id
