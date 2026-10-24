@@ -1,7 +1,7 @@
 # Analisis Spasial Sebaran Penduduk Kabupaten Karawang
 
 ## Objektif Proyek
-Proyek ini bertujuan untuk latihan menggunakan sostware QGIS dengan contoh memetakan dan menganalisis sebaran jumlah penduduk tingkat kecamatan di wilayah Kabupaten Karawang. Visualisasi ini dirancang untuk mengidentifikasi konsentrasi populasi sehingga dapat mengetahui daerah kecamatan mana yang memiliki jumlah penduduk terbanyak serta untuk pemetaan wilayah strategis.
+Proyek ini bertujuan untuk memetakan dan menganalisis sebaran jumlah penduduk tingkat kecamatan di wilayah Kabupaten Karawang. Visualisasi ini dirancang untuk mengidentifikasi konsentrasi populasi sehingga dapat mengetahui daerah kecamatan mana yang memiliki jumlah penduduk terbanyak serta untuk pemetaan wilayah strategis.
 
 ## Hasil Peta Standar Kartografi 
 ![Peta Sebaran Penduduk Karawang](./Peta%20Sebaran%20Penduduk%20Karawang.jpeg)
@@ -31,4 +31,4 @@ Melakukan **Attribut Joining** menggunakan kolom kunci (*Key Field*) yang sama (
 * **[Unduh File PDF Resolusi Tinggi](./Peta%20Sebaran%20Jumlah%20Penduduk%20Karawang.pdf)**
 
 Note:
-Pembuatan peta ini mengikuti tutrial dari geosoftwareID
+Pembuatan peta ini mengikuti tutrial dari geosoftwareID, dalam latihan menggunakan software QGIS.
