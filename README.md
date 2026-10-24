@@ -15,7 +15,7 @@ Proyek ini dikerjakan dengan tahapan pemrosesan data (*data processing workflow*
   * Data Tabular Jumlah Penduduk Kabupaten Karawang.
   * Peta Dasar: OpenStreetMap dan GADM.
 * **Tahapan Teknis Pembuatan:**
-* ### 1. Akuisisi dan Filtrasi Data Spasial
+### 1. Akuisisi dan Filtrasi Data Spasial
 * **Skala Global ke Nasional:** Mengunduh data spasial batas administrasi resmi seluruh dunia melalui platform **GADM (Database of Global Administrative Areas)**.
 * **Skala Regional (Indonesia):** Menyaring data GADM global untuk mengekstrack batas wilayah Indonesia.
 * **Skala Lokasi (Karawang):** Melakukan query spasial pada level Administrative 2 (Kabupaten) dan Administrative 3 (Kecamatan) khusus untuk wilayah Kabupaten Karawang.
